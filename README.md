@@ -27,7 +27,27 @@ This project was developed as part of my **Data Science & Analytics Internship**
 
 ![Page 3 Scatter plot](screenshort/page.3.png)
 ---
+## 📂 Repository Structure
+├── Dashboard
+    └── Future_interns_task_2.pbix
+├── README.md
+├── dataset
+    └── campaign_data_with_metrics_updated.csv
+├── python_code
+    └── data_cleaning_code.py
+└── screenshort
+    ├── page.1.png
+    ├── page.2.png
+    └── page.3.png
 
+
+/Dashboard/Future_interns_task_2.pbix:
+--------------------------------------------------------------------------------
+https://raw.githubusercontent.com/Bharath8220818/FUTURE_DS_02/ad7da29062c5df80e0a2d3fcd8a722928032daa9/Dashboard/Future_interns_task_2.pbix
+
+
+--------------------------------------------------------------------------------
+/README.md:
 
 ---
 
